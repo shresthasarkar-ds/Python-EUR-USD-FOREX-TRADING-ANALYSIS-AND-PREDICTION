@@ -8,7 +8,7 @@ This project uses Python and pandas to explore historical EUR/USD price data (20
 First candle after the weekend: does the direction of the first candle after a market gap predict the trend over the next few days?
 Engulfing candlestick patterns: do bullish and bearish engulfing patterns predict the direction of the next candle and the price change that follows?
 
-File: "C:\Users\sarka\OneDrive\Desktop\Python Notes\Pandas\EURUSD_FOREX.csv"
+File: EURUSD_FOREX.csv
 Period: May 2003 to January 2023
 Frequency: Daily candles
 Columns: Gmt time, Open, High, Low, Close, Volume
@@ -66,8 +66,8 @@ eurusd-forex-analysis/
 
 ## How to Run
 
-# 1. Clone the repository
-git clone https://github.com/<your-username>/eurusd-forex-analysis.git
+### 1. Clone the repository
+git clone https://github.com/shresthasarkar-ds/Python-EUR-USD-FOREX-TRADING-ANALYSIS-AND-PREDICTION.git
 cd eurusd-forex-analysis
 
 # 2. Install the requirements
