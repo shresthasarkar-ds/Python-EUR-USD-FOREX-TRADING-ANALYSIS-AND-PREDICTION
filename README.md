@@ -38,12 +38,16 @@ EUR/USD Closing Price (2003-2023) :
 
 <img width="683" height="517" alt="EUR_USD_close_price_trend" src="https://github.com/user-attachments/assets/7649c04d-0850-4b6a-b5b7-42b620f06716" />
 
+
+
 Candlestick Chart: Bullish, Bearish and Trend : 
 
 <img width="1673" height="706" alt="candlestick_trend_example" src="https://github.com/user-attachments/assets/1fa71b6d-69bc-42f3-b59e-d93991bb97e7" />
 
 
+
 ## Key Results
+
 <img width="1033" height="482" alt="Key-Results-Trading-Analysis-Pediction" src="https://github.com/user-attachments/assets/e5165d92-0547-48ea-80e7-cf9f78260930" />
 
 
@@ -70,10 +74,10 @@ eurusd-forex-analysis/
 git clone https://github.com/shresthasarkar-ds/Python-EUR-USD-FOREX-TRADING-ANALYSIS-AND-PREDICTION.git
 cd eurusd-forex-analysis
 
-# 2. Install the requirements
+### 2. Install the requirements
 pip install -r requirements.txt
 
-# 3. Open the notebook
+### 3. Open the notebook
 jupyter notebook/colab script/eurusd_analysis_prediction.ipynb
 
 The notebook reads the data from ../data/EURUSD_FOREX.csv, so run it from inside the script/ folder.
