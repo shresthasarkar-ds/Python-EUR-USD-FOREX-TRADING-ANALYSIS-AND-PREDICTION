@@ -1,0 +1,2 @@
+# Python-EUR-USD-FOREX-TRADING-ANALYSIS-AND-PREDICTION
+This project analyses daily EUR/USD forex data (2003–2023, about 7,200 records) using Python and pandas. It tests two trading ideas: whether the first candle after the weekend predicts the trend over the next few days, and whether bullish and bearish engulfing candlestick patterns can predict future price movement. Using Python, pandas, matplotlib.
