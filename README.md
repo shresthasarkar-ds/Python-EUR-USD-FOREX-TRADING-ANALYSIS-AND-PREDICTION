@@ -34,9 +34,13 @@ Calculated the average future price change (absolute and percentage) over the ne
 Plotted candlestick charts with matplotlib to visualise trends, bullish and bearish candles
 
 ## Charts
-EUR/USD Closing Price (2003-2023) : <img width="683" height="517" alt="EUR_USD_close_price_trend" src="https://github.com/user-attachments/assets/7649c04d-0850-4b6a-b5b7-42b620f06716" />
+EUR/USD Closing Price (2003-2023) : 
 
-Candlestick Chart: Bullish, Bearish and Trend : <img width="1673" height="706" alt="candlestick_trend_example" src="https://github.com/user-attachments/assets/1fa71b6d-69bc-42f3-b59e-d93991bb97e7" />
+<img width="683" height="517" alt="EUR_USD_close_price_trend" src="https://github.com/user-attachments/assets/7649c04d-0850-4b6a-b5b7-42b620f06716" />
+
+Candlestick Chart: Bullish, Bearish and Trend : 
+
+<img width="1673" height="706" alt="candlestick_trend_example" src="https://github.com/user-attachments/assets/1fa71b6d-69bc-42f3-b59e-d93991bb97e7" />
 
 
 ## Key Results
